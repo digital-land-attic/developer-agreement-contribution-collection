@@ -1,0 +1,76 @@
+row-number,field,issue-type,value
+1,units,integer,£
+2,units,integer,£
+3,units,integer,Affordable houses
+4,units,integer,£
+5,units,integer,£
+6,units,integer,£
+7,units,integer,Affordable houses
+8,units,integer,£
+9,units,integer,£
+10,units,integer,£
+11,units,integer,£
+12,units,integer,£
+13,units,integer,%
+14,units,integer,£
+15,units,integer,£
+16,units,integer,£
+17,units,integer,%
+18,units,integer,£
+19,units,integer,£
+20,units,integer,Affordable houses
+21,units,integer,£
+22,units,integer,£
+23,units,integer,Affordable houses
+24,units,integer,£
+25,units,integer,£
+26,units,integer,£
+27,units,integer,£
+28,units,integer,Affordable houses
+29,units,integer,special needs houses
+30,amount,decimal,£22798.02
+30,units,integer,£
+31,amount,decimal,£3462.00
+31,units,integer,£
+32,amount,decimal,£4500.00
+32,units,integer,£
+33,amount,decimal,£40500.00
+33,units,integer,£
+34,amount,decimal,£30000.00
+34,units,integer,£
+35,amount,decimal,£112500.00
+35,units,integer,£
+36,amount,decimal,£4.00
+36,units,integer,Affordable houses
+37,amount,decimal,£91192.08
+37,units,integer,£
+38,amount,decimal,£57400.00
+38,units,integer,£
+39,units,integer,£
+40,units,integer,£
+41,units,integer,£
+42,units,integer,£
+43,units,integer,£
+44,units,integer,£
+45,units,integer,£
+46,units,integer,£
+47,units,integer,£
+48,units,integer,£
+49,units,integer,£
+50,units,integer,£
+51,units,integer,£
+52,units,integer,£
+53,units,integer,£
+54,units,integer,£
+55,units,integer,£
+56,units,integer,£
+57,units,integer,translocation of ecological sites
+58,units,integer,£
+59,units,integer,£
+60,units,integer,£
+61,units,integer,Provide LEAP
+62,units,integer,£
+63,units,integer,management plan
+64,units,integer,maintain surface water drainage scheme
+65,units,integer,£
+66,units,integer,per 100 affordable housing
