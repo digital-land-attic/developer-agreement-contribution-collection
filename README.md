@@ -25,7 +25,7 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
 
 # Nightly collection
 
-The collection is [updated nightly](https://github.com/digital-land/developer-agreement-contribution/actions) by the [GitHub Action](.github/workflows/run.yml).
+The collection is [updated nightly](https://github.com/digital-land/developer-agreement-contribution-collection/actions) by the [GitHub Action](.github/workflows/run.yml).
 
 # Building the national dataset
 
