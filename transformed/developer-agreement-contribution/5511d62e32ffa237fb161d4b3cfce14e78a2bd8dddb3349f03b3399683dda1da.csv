@@ -1,12 +1,12 @@
-amount,contribution-purpose,developer-agreement,developer-agreement-contribution,end-date,entry-date,organisation,start-date,units,slug
-1.6E+4,affordable-housing,P/2018/01046-da,Affordable Housing,,2020-08-20,local-authority-eng:EST,2019-05-22,6,/developer-agreement-contribution/local-authority-eng/EST/Affordable-Housing
-0,open-space-and-leisure,P/2018/01046-da,POS,,2020-08-20,local-authority-eng:EST,2019-05-22,2,/developer-agreement-contribution/local-authority-eng/EST/POS
-2.5E+5,community-facilities,P/2018/01046-da,Community Facilities,,2020-08-20,local-authority-eng:EST,2019-05-22,0,/developer-agreement-contribution/local-authority-eng/EST/Community-Facilities
-0,transport-and-travel,P/2018/01046-da,Bus Service,,2020-08-20,local-authority-eng:EST,2019-05-22,1,/developer-agreement-contribution/local-authority-eng/EST/Bus-Service
-0,affordable-housing,P/2018/00939-da,Affordable Housing,,2020-08-20,local-authority-eng:EST,2019-09-13,24,/developer-agreement-contribution/local-authority-eng/EST/Affordable-Housing
-1.525E+4,open-space-and-leisure,P/2018/00939-da,POS,,2020-08-20,local-authority-eng:EST,2019-09-13,0,/developer-agreement-contribution/local-authority-eng/EST/POS
-3.85E+3,green-infrastructure,P/2018/00939-da,National Forest,,2020-08-20,local-authority-eng:EST,2019-09-13,0,/developer-agreement-contribution/local-authority-eng/EST/National-Forest
-1.8E+3,other,P/2018/00939-da,Refuse,,2020-08-20,local-authority-eng:EST,2019-09-13,0,/developer-agreement-contribution/local-authority-eng/EST/Refuse
-0,affordable-housing,P/2019/00703-da,Affordable Housing,,2020-08-20,local-authority-eng:EST,2020-03-04,39,/developer-agreement-contribution/local-authority-eng/EST/Affordable-Housing
-8.4E+3,open-space-and-leisure,P/2019/00703-da,POS,,2020-08-20,local-authority-eng:EST,2020-03-04,0,/developer-agreement-contribution/local-authority-eng/EST/POS
-1.1E+3,other,P/2019/00703-da,Refuse,,2020-08-20,local-authority-eng:EST,2020-03-04,0,/developer-agreement-contribution/local-authority-eng/EST/Refuse
+developer-agreement-contribution,amount,units,contribution-purpose,developer-agreement,organisation,entry-date,start-date,end-date,slug
+Affordable Housing,1.6E+4,6,affordable-housing,P/2018/01046-da,local-authority-eng:EST,2020-08-20,2019-05-22,,/developer-agreement-contribution/local-authority-eng/EST/Affordable-Housing
+POS,0,2,open-space-and-leisure,P/2018/01046-da,local-authority-eng:EST,2020-08-20,2019-05-22,,/developer-agreement-contribution/local-authority-eng/EST/POS
+Community Facilities,2.5E+5,0,community-facilities,P/2018/01046-da,local-authority-eng:EST,2020-08-20,2019-05-22,,/developer-agreement-contribution/local-authority-eng/EST/Community-Facilities
+Bus Service,0,1,transport-and-travel,P/2018/01046-da,local-authority-eng:EST,2020-08-20,2019-05-22,,/developer-agreement-contribution/local-authority-eng/EST/Bus-Service
+Affordable Housing,0,24,affordable-housing,P/2018/00939-da,local-authority-eng:EST,2020-08-20,2019-09-13,,/developer-agreement-contribution/local-authority-eng/EST/Affordable-Housing
+POS,1.525E+4,0,open-space-and-leisure,P/2018/00939-da,local-authority-eng:EST,2020-08-20,2019-09-13,,/developer-agreement-contribution/local-authority-eng/EST/POS
+National Forest,3.85E+3,0,green-infrastructure,P/2018/00939-da,local-authority-eng:EST,2020-08-20,2019-09-13,,/developer-agreement-contribution/local-authority-eng/EST/National-Forest
+Refuse,1.8E+3,0,other,P/2018/00939-da,local-authority-eng:EST,2020-08-20,2019-09-13,,/developer-agreement-contribution/local-authority-eng/EST/Refuse
+Affordable Housing,0,39,affordable-housing,P/2019/00703-da,local-authority-eng:EST,2020-08-20,2020-03-04,,/developer-agreement-contribution/local-authority-eng/EST/Affordable-Housing
+POS,8.4E+3,0,open-space-and-leisure,P/2019/00703-da,local-authority-eng:EST,2020-08-20,2020-03-04,,/developer-agreement-contribution/local-authority-eng/EST/POS
+Refuse,1.1E+3,0,other,P/2019/00703-da,local-authority-eng:EST,2020-08-20,2020-03-04,,/developer-agreement-contribution/local-authority-eng/EST/Refuse

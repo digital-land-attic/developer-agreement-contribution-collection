@@ -1,11 +1,11 @@
-amount,contribution-purpose,developer-agreement,developer-agreement-contribution,end-date,entry-date,organisation,start-date,units,slug
-,affordable-housing,B/18/0328-da,B/18/0328-da-AFH,,2020-06-23,local-authority-eng:BOT,2020-06-10,4,/developer-agreement-contribution/local-authority-eng/BOT/B-18-0328-da-AFH
-,education,B/18/0328-da,B/18/0328-da-EDU,,2020-06-23,local-authority-eng:BOT,2020-06-10,,/developer-agreement-contribution/local-authority-eng/BOT/B-18-0328-da-EDU
-,affordable-housing,B/16/0372-da,B/16/0372-da-AFH,2020-03-18,2019-07-16,local-authority-eng:BOT,2019-05-21,8,/developer-agreement-contribution/local-authority-eng/BOT/B-16-0372-da-AFH
-,affordable-housing,B/19/0002-da,B/19/0002-da-AFH,,2019-07-25,local-authority-eng:BOT,2019-07-18,18,/developer-agreement-contribution/local-authority-eng/BOT/B-19-0002-da-AFH
-,affordable-housing,B/16/0372/CD3-da,B/16/0372/CD3-da-AFH,,2019-09-12,local-authority-eng:BOT,2019-09-05,,/developer-agreement-contribution/local-authority-eng/BOT/B-16-0372-CD3-da-AFH
-,affordable-housing,B/19/0169-da,B/19/0169-da-AFH,,2020-10-19,local-authority-eng:BOT,2019-09-27,25,/developer-agreement-contribution/local-authority-eng/BOT/B-19-0169-da-AFH
-,affordable-housing,B/16/0137-da,B/16/0137-da-AFH,,2019-09-26,local-authority-eng:BOT,2019-12-04,37,/developer-agreement-contribution/local-authority-eng/BOT/B-16-0137-da-AFH
-,affordable-housing,B/18/0435-da,B/18/0435-da-AFH,,2020-03-16,local-authority-eng:BOT,2020-03-10,10,/developer-agreement-contribution/local-authority-eng/BOT/B-18-0435-da-AFH
-,affordable-housing,B/12/0171 & B/16/0372-da6,B/12/0171 & B/16/0372-da6-AFH,,2020-06-30,local-authority-eng:BOT,2020-03-18,16,/developer-agreement-contribution/local-authority-eng/BOT/B-12-0171---B-16-0372-da6-AFH
-,affordable-housing,B/19/0288/CD2-da,B/19/0288/CD2-da-AFH,,2020-12-02,local-authority-eng:BOT,2020-02-21,26,/developer-agreement-contribution/local-authority-eng/BOT/B-19-0288-CD2-da-AFH
+developer-agreement-contribution,amount,units,contribution-purpose,developer-agreement,organisation,entry-date,start-date,end-date,slug
+B/18/0328-da-AFH,,4,affordable-housing,B/18/0328-da,local-authority-eng:BOT,2020-06-23,2020-06-10,,/developer-agreement-contribution/local-authority-eng/BOT/B-18-0328-da-AFH
+B/18/0328-da-EDU,,,education,B/18/0328-da,local-authority-eng:BOT,2020-06-23,2020-06-10,,/developer-agreement-contribution/local-authority-eng/BOT/B-18-0328-da-EDU
+B/16/0372-da-AFH,,8,affordable-housing,B/16/0372-da,local-authority-eng:BOT,2019-07-16,2019-05-21,2020-03-18,/developer-agreement-contribution/local-authority-eng/BOT/B-16-0372-da-AFH
+B/19/0002-da-AFH,,18,affordable-housing,B/19/0002-da,local-authority-eng:BOT,2019-07-25,2019-07-18,,/developer-agreement-contribution/local-authority-eng/BOT/B-19-0002-da-AFH
+B/16/0372/CD3-da-AFH,,,affordable-housing,B/16/0372/CD3-da,local-authority-eng:BOT,2019-09-12,2019-09-05,,/developer-agreement-contribution/local-authority-eng/BOT/B-16-0372-CD3-da-AFH
+B/19/0169-da-AFH,,25,affordable-housing,B/19/0169-da,local-authority-eng:BOT,2020-10-19,2019-09-27,,/developer-agreement-contribution/local-authority-eng/BOT/B-19-0169-da-AFH
+B/16/0137-da-AFH,,37,affordable-housing,B/16/0137-da,local-authority-eng:BOT,2019-09-26,2019-12-04,,/developer-agreement-contribution/local-authority-eng/BOT/B-16-0137-da-AFH
+B/18/0435-da-AFH,,10,affordable-housing,B/18/0435-da,local-authority-eng:BOT,2020-03-16,2020-03-10,,/developer-agreement-contribution/local-authority-eng/BOT/B-18-0435-da-AFH
+B/12/0171 & B/16/0372-da6-AFH,,16,affordable-housing,B/12/0171 & B/16/0372-da6,local-authority-eng:BOT,2020-06-30,2020-03-18,,/developer-agreement-contribution/local-authority-eng/BOT/B-12-0171---B-16-0372-da6-AFH
+B/19/0288/CD2-da-AFH,,26,affordable-housing,B/19/0288/CD2-da,local-authority-eng:BOT,2020-12-02,2020-02-21,,/developer-agreement-contribution/local-authority-eng/BOT/B-19-0288-CD2-da-AFH
